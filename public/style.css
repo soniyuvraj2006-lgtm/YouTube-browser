@@ -73,4 +73,10 @@ body {
 .container button:hover {
   background: #cc0000;
 }
+.credit {
+  margin-top: 14px;
+  font-size: 14px;
+  color: #888;
+  font-style: italic;
+}
 
